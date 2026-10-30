@@ -1,0 +1,9 @@
+
+data/raw/*.csv
+data/processed/
+models/
+outputs/
+__pycache__/
+*.pyc
+.venv/
+.idea/
